@@ -1,3 +1,9 @@
+html,
+body,
+:root {
+  @apply h-full;
+}
+
 @tailwind base;
   @tailwind components;
   @tailwind utilities;
